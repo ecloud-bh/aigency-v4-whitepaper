@@ -1,7 +1,7 @@
 # AIGENCY V4 Whitepaper
 
 > **Sovereign, fully independent, multimodal — 128B parameters.**
-> Whitepaper, marketing collateral and visuals for AIGENCY V4 by
+> Technical whitepaper for AIGENCY V4 by
 > [eCloud Yazılım Teknolojileri](https://e-cloud.web.tr) ·
 > [aigency.dev](https://aigency.dev)
 
@@ -20,17 +20,7 @@
 ├── AIGENCY-V4-Whitepaper-TR.pdf       # 32-page Turkish whitepaper
 ├── AIGENCY-V4-Whitepaper-EN.docx      # Editable English source
 ├── AIGENCY-V4-Whitepaper-TR.docx      # Editable Turkish source
-│   ├── EN/
-│   │   ├── AIGENCY-V4-Positioning.pdf
-│   │   ├── AIGENCY-V4-Strategic-Use-Cases.pdf
-│   │   └── AIGENCY-V4-SWOT.pdf
-│   └── TR/
-│       ├── AIGENCY-V4-Konumlandirma.pdf
-│       ├── AIGENCY-V4-Stratejik-Kullanim.pdf
-│       └── AIGENCY-V4-SWOT.pdf
-│   ├── EN/                            # 7 English-labelled charts
-│   ├── TR/                            # 7 Turkish-labelled charts
-│   └── equations/                     # 14 LaTeX-rendered formula PNGs
+├── README.md                          # This file
 └── LICENSE                            # CC BY-ND 4.0
 ```
 
@@ -80,9 +70,8 @@ The full breakdown is in the whitepaper, Section 7.
 
 ## License
 
-The whitepaper and marketing materials are licensed under
-**Creative Commons BY-ND 4.0** — you may share with attribution; no
-derivative works.
+The whitepaper is licensed under **Creative Commons BY-ND 4.0** —
+you may share with attribution; no derivative works.
 
 The benchmark runner code (separate repo) is **MIT**.
 The model itself is offered **API-only commercial** — see
